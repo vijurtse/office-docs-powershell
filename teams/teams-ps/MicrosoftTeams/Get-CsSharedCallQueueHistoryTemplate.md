@@ -20,7 +20,6 @@ This PowerShell cmdlet is being deprecated, please use the new version [Get-CsSh
 ```
 Get-CsSharedCallQueueHistoryTemplate [-Id <string>] [<CommonParameters>]
 ```
-
 ## DESCRIPTION
 Use the Get-CsSharedCallQueueHistory cmdlet to list the Shared Call Queue History templates.
 
