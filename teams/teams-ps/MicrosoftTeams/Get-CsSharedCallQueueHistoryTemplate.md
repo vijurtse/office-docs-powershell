@@ -13,12 +13,10 @@ title: Get-CsSharedCallQueueHistoryTemplate
 # Get-CsSharedCallQueueHistoryTemplate
 
 ## SYNOPSIS
-Use the Get-CsSharedCallQueueHistory cmdlet to list the Shared Call Queue History templates.
-
-## SYNTAX
 
 This PowerShell cmdlet is being deprecated, please use the new version [Get-CsSharedCallHistoryTemplate](./Get-CsSharedCallHistoryTemplate.md) instead
 
+## SYNTAX
 ```
 Get-CsSharedCallQueueHistoryTemplate [-Id <string>] [<CommonParameters>]
 ```
