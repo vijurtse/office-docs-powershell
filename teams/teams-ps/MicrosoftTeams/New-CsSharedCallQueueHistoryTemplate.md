@@ -16,8 +16,7 @@ title: New-CsSharedCallQueueHistoryTemplate
 ## SYNOPSIS
 Use the New-CsSharedCallQueueHistoryTemplate cmdlet to create a Shared Call Queue History template.
 
-> [!IMPORTANT]
->This PowerShell cmdlet is being deprecated, please use the new version [New-CsSharedCallHistoryTemplate](./New-CsSharedCallHistoryTemplate.md) instead
+This PowerShell cmdlet is being deprecated, please use the new version [New-CsSharedCallHistoryTemplate](./New-CsSharedCallHistoryTemplate.md) instead
 
 ## SYNTAX
 
